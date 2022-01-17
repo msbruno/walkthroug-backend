@@ -15,4 +15,4 @@ System Design
     - Write-back: delete the entry for X and update the database. When there is a query for X, get it and writ it in cache. 
     
       
-## Heartbeat mecanism: https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html
+Heartbeat mecanism: https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html
