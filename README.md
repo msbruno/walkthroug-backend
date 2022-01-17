@@ -3,6 +3,8 @@ A Walkthrough to Back-End Development
 
 System Design
 
+## Database:
+
 
 ## Caching:
 - What is: https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Caching
@@ -16,3 +18,8 @@ System Design
     
       
 Heartbeat mecanism: https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html
+
+
+## Blockchain 
+
+Cryptography and Consensus: https://www.youtube.com/watch?v=V0JdeRzVndI&ab_channel=TechCrunch
