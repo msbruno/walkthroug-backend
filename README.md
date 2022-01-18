@@ -15,11 +15,15 @@ System Design
   - Data consistancy: 
     - Write-through: Write it in cache before write in DB. 
     - Write-back: delete the entry for X and update the database. When there is a query for X, get it and writ it in cache. 
-    
-      
+         
 Heartbeat mecanism: https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html
 
+# Miscellaneous
+- Fallacies of Distributed Computing: Explainedhttps://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf
+
+# Blogs to follow
+- http://highscalability.com/
 
 ## Blockchain 
-
 Cryptography and Consensus: https://www.youtube.com/watch?v=V0JdeRzVndI&ab_channel=TechCrunch
+
