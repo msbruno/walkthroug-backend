@@ -24,6 +24,14 @@ Heartbeat mecanism: https://martinfowler.com/articles/patterns-of-distributed-sy
 # Blogs to follow
 - http://highscalability.com/
 
-## Blockchain 
-Cryptography and Consensus: https://www.youtube.com/watch?v=V0JdeRzVndI&ab_channel=TechCrunch
-
+## Blockchain and Crypto
+How it works(simple): https://www.youtube.com/watch?v=SSo_EIwHSd4&t=101s
+How it works: https://www.youtube.com/watch?v=2wxtiNgXBaU
+Visual how it works: https://www.youtube.com/watch?v=_160oMzblY8
+How proof of stake works: https://www.youtube.com/watch?v=M3EFi_POhps
+Smart Contracts: https://www.youtube.com/watch?v=ZE2HxTmxfrI
+Halving: https://www.youtube.com/watch?v=dtYJrZNct-o
+Hash rate: https://www.youtube.com/watch?v=dtYJrZNct-o
+Consensus: https://www.youtube.com/watch?v=BbCy2mu7XiA
+Cryptography and Consensus: https://www.youtube.com/watch?v=V0JdeRzVndI
+The future of NFT: https://www.youtube.com/watch?v=sKxxc_cfwR0&t=353s
